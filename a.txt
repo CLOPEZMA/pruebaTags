@@ -1,1 +1,1 @@
-a mod 4
+a mod 5
