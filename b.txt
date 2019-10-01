@@ -1,1 +1,1 @@
-b mod 2
+b mod 3
